@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>SmartContentAI</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>SmartContentAI</h1>
+    <p>Global AI-powered SaaS platform for multilingual content creation, workflow automation, and SEO optimization.</p>
+  </header>
+
+  <section>
+    <h2>🚀 Key Features</h2>
+    <ul>
+      <li>🌍 Multilingual AI</li>
+      <li>⚡ Automation</li>
+      <li>📈 SEO Optimization</li>
+      <li>☁️ Cloud SaaS</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>© 2026 SmartContentAI</p>
+  </footer>
+</body>
+</html>
