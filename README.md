@@ -37,3 +37,28 @@ AI, SaaS, Content Creation, Multilingual, Automation, SEO, Global, Smart Content
 For collaboration or inquiries:  
 📧 info@smartcontentai.com  
 🌐 https://smartcontentai.com
+# SMART CONTENT AI
+
+SmartContentAI is a global AI-powered SaaS platform for multilingual content creation, workflow automation, and SEO optimization.
+
+## Key Features
+
+- 🌍 **Multilingual AI**
+  Create and optimize content in multiple languages including English, Arabic, French, and Spanish.
+
+- ⚡ **Automation**
+  Streamline workflows and scale productivity with AI-driven automation.
+
+- 📈 **SEO Optimization**
+  Boost visibility and ranking with integrated SEO tools.
+
+- ☁️ **Cloud SaaS**
+  Secure, scalable, and accessible anywhere, anytime.
+
+## Vision
+
+Empowering creators, businesses, and organizations worldwide with intelligent tools that simplify content creation and maximize digital impact.
+
+## License
+
+MIT License © 2026 SmartContentAI
