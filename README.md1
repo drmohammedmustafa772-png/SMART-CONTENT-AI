@@ -1,0 +1,267 @@
+# SMART CONTENT AI
+
+SmartContentAI is a global AI-powered SaaS platform for multilingual content creation, workflow automation, and SEO optimization.
+
+## Key Features
+
+- 🌍 **Multilingual AI**
+  Create and optimize content in multiple languages including English, Arabic, French, and Spanish.
+
+- ⚡ **Automation**
+  Streamline workflows and scale productivity with AI-driven automation.
+
+- 📈 **SEO Optimization**
+  Boost visibility and ranking with integrated SEO tools.
+
+- ☁️ **Cloud SaaS**
+  Secure, scalable, and accessible anywhere, anytime.
+
+## Vision
+
+Empowering creators, businesses, and organizations worldwide with intelligent tools that simplify content creation and maximize digital impact.
+
+## License
+
+MIT License © 2026 SmartContentAI
+
+في الجمعة، ١٢ يونيو، ٢٠٢٦، ٦:١٤ م Drzyogo <drzyogo.ca@gmail.com> كتب:
+# SMART CONTENT AI
+
+SmartContentAI is a global AI-powered SaaS platform for multilingual content creation, workflow automation, and SEO optimization.
+
+## Key Features
+
+- 🌍 **Multilingual AI**
+  Create and optimize content in multiple languages including English, Arabic, French, and Spanish.
+
+- ⚡ **Automation**
+  Streamline workflows and scale productivity with AI-driven automation.
+
+- 📈 **SEO Optimization**
+  Boost visibility and ranking with integrated SEO tools.
+
+- ☁️ **Cloud SaaS**
+  Secure, scalable, and accessible anywhere, anytime.
+
+## Vision
+
+Empowering creators, businesses, and organizations worldwide with intelligent tools that simplify content creation and maximize digital impact.
+
+## License
+
+MIT License © 2026 SmartContentAI
+
+في الجمعة، ١٢ يونيو، ٢٠٢٦، ٥:٥٦ م Drzyogo <drzyogo.ca@gmail.com> كتب:
+/* style.css - SmartContentAI */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+  color: #fff;
+  text-align: center;
+}
+
+header {
+  padding: 50px 20px;
+}
+
+header h1 {
+  font-size: 3em;
+  margin-bottom: 10px;
+  color: #00c6ff;
+}
+
+header p {
+  font-size: 1.2em;
+  max-width: 700px;
+  margin: auto;
+}
+
+section {
+  padding: 40px 20px;
+}
+
+.features {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.card {
+  background: rgba(255,255,255,0.1);
+  border-radius: 10px;
+  padding: 20px;
+  width: 250px;
+}
+
+.card h3 {
+  color: #00c6ff;
+}
+
+footer {
+  background: #111;
+  padding: 20px;
+  margin-top: 40px;
+}
+
+footer p {
+  margin: 0;
+  font-size: 0.9em;
+}
+
+في الجمعة، ١٢ يونيو، ٢٠٢٦، ٥:٥١ م Drzyogo <drzyogo.ca@gmail.com> كتب:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="SmartContentAI - Global AI-powered SaaS platform for multilingual content creation, automation, and SEO optimization.">
+  <meta name="keywords" content="AI, SaaS, Content, SEO, Automation, Global, SmartContentAI">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SmartContentAI</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+      color: #fff;
+      text-align: center;
+    }
+    header {
+      padding: 50px 20px;
+    }
+    header h1 {
+      font-size: 3em;
+      margin-bottom: 10px;
+      color: #00c6ff;
+    }
+    header p {
+      font-size: 1.2em;
+      max-width: 700px;
+      margin: auto;
+    }
+    section {
+      padding: 40px 20px;
+    }
+    .features {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 20px;
+    }
+    .card {
+      background: rgba(255,255,255,0.1);
+      border-radius: 10px;
+      padding: 20px;
+      width: 250px;
+    }
+    .card h3 {
+      color: #00c6ff;
+    }
+    footer {
+      background: #111;
+      padding: 20px;
+      margin-top: 40px;
+    }
+    footer p {
+      margin: 0;
+      font-size: 0.9em;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>SmartContentAI</h1>
+    <p>A global AI-powered SaaS platform for multilingual content creation, workflow automation, and SEO optimization.</p>
+  </header>
+
+  <section>
+    <h2>🚀 Key Features</h2>
+    <div class="features">
+      <div class="card">
+        <h3>🌍 Multilingual AI</h3>
+        <p>Create content in English, Arabic, Spanish, French, and more.</p>
+      </div>
+      <div class="card">
+        <h3>📈 SEO Optimization</h3>
+        <p>Boost visibility with built-in SEO tools.</p>
+      </div>
+      <div class="card">
+        <h3>⚡ Automation</h3>
+        <p>Streamline workflows and scale productivity.</p>
+      </div>
+      <div class="card">
+        <h3>☁️ SaaS Cloud</h3>
+        <p>Access anywhere, anytime with secure hosting.</p>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2026 SmartContentAI | info@smartcontentai.com</p>
+  </footer>
+</body>
+</html>
+
+في الجمعة، ١٢ يونيو، ٢٠٢٦، ٥:٣٧ م Drzyogo <drzyogo.ca@gmail.com> كتب:
+MIT License
+
+Copyright (c) 2026 SmartContentAI
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+في الجمعة، ١٢ يونيو، ٢٠٢٦، ٥:٣٤ م Drzyogo <drzyogo.ca@gmail.com> كتب:
+# SmartContentAI
+
+SmartContentAI is a **global AI-powered SaaS platform** designed to revolutionize content creation and digital growth.  
+Our mission is to empower businesses, creators, and organizations worldwide with **multilingual content generation, workflow automation, and SEO optimization**.
+
+---
+
+## 🚀 Key Features
+- **Multilingual AI Content**: Generate professional text in English, Arabic, Spanish, French, and more.
+- **SEO Optimization**: Built-in tools to enhance search engine visibility.
+- **Workflow Automation**: Streamline repetitive tasks and scale productivity.
+- **Cloud-Based SaaS**: Accessible anywhere, anytime, with secure hosting.
+
+---
+
+## 🌍 Vision
+To become the leading **AI content platform** globally, bridging language barriers and enabling smarter digital communication.
+
+---
+
+## 📈 Why SmartContentAI?
+- **Global Reach**: Designed for international markets.  
+- **Scalable**: From startups to enterprises.  
+- **Cutting-Edge AI**: Powered by advanced machine learning models.  
+- **Affordable**: Flexible subscription plans for all business sizes.
+
+---
+
+## 🔑 Keywords for SEO
+AI, SaaS, Content Creation, Multilingual, Automation, SEO, Global, Smart Content, Digital Growth
+
+---
+
+## 📬 Contact
+For collaboration or inquiries:  
+📧 info@smartcontentai.com  
+🌐 https://smartcontentai.com
