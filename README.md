@@ -135,10 +135,13 @@
 
   <!-- Chatbot (Crisp) -->
   <script type="text/javascript">
-    window.$crisp=[];window.CRISP_WEBSITE_ID="dd4e9e53-2015-40f2-853f-17cdb6eff82d";
-    (function(){d=document;s=d.createElement("script");
-    s.src="https://client.crisp.chat/l.js";s.async=1;
-    d.getElementsByTagName("head")[0].appendChild(s);})();
+    window.$crisp=[];
+    window.CRISP_WEBSITE_ID="dde9e35f-2015-40f2-b353-17cd0eef1828";
+    (function(){
+      d=document;s=d.createElement("script");
+      s.src="https://client.crisp.chat/l.js";s.async=1;
+      d.getElementsByTagName("head")[0].appendChild(s);
+    })();
   </script>
 
   <!-- Try the Model -->
@@ -155,7 +158,6 @@
 
   <!-- Service Worker (مدمج هنا) -->
   <script>
-    // Service Worker لتفعيل PWA
     if ('serviceWorker' in navigator) {
       const swCode = `
         self.addEventListener('install', event => {
